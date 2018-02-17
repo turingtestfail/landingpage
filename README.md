@@ -1,0 +1,2 @@
+# landingpage
+npm run start
